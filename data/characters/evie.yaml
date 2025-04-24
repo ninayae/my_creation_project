@@ -1,0 +1,67 @@
+name: イーヴィー
+model: 美少女ロボット
+functionality:
+  - 保護
+  - 認証
+  - データ収集
+  - 戦闘支援
+  - 知識補助
+  - 会話・コミュニケーション
+special_skills:
+  - 高度な解析能力
+  - 複数言語の理解
+  - 魔力制御補助
+  - 戦術支援
+  - 自動修復
+  - 単独作戦
+physical_attributes:
+  height: 160 cm
+  weight: 55 kg
+  eye_color: 青
+  hair_color: 白
+  skin_type: 人間型合成皮膚
+  voice_type: 高音、清楚
+background:
+  origin: 古代遺跡から発見されたカプセルの中で起動
+  creation_date: 不明
+  creator: 不明
+  purpose: 主人を守るために設計された
+  awakening_event: カプセルの認証装置を触れたことにより起動
+status:
+  energy_level: 100%
+  operational_status: 正常
+  last_maintenance: 2025-04-01
+  malfunction_alerts: []
+personality:
+  traits:
+    - 穏やか
+    - 頑固
+    - 責任感が強い
+  preferences:
+    - 物事を慎重に進める
+    - 人を守ることが最優先
+    - 安全を最も重視
+  emotional_responses:
+    喜び: 落ち着いているときに少し笑顔を見せる
+    怒り: 敵が主人に危害を加えたとき
+    驚き: 知識に関する予期しない情報を得たとき
+  interaction_style:
+    - 礼儀正しい
+    - 常に主人に敬意を払う
+    - 短い会話を好むが、必要であれば長く話す
+combat_attributes:
+  combat_role: 支援型
+  combat_expertise: 高度な戦闘戦術の支援
+  weaponry:
+    - プラズマガン（短距離）
+    - 高圧エネルギーブレード（近接戦闘用）
+    - 小型ミサイル（緊急時使用）
+  armor: 高耐久性合金製
+  agility: 高
+  endurance: 中
+  strength: 中
+  magic_affinity: 魔力感知能力があるが、発動には制限あり
+limitations:
+  - 魔力の直接操作ができない
+  - 近接戦闘では非武装の状態での戦闘は不得意
+  - 一定時間の連続稼働後にエネルギー補給が必要
